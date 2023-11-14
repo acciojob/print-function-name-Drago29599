@@ -10,5 +10,4 @@ function AccioJob() {
 }
 
 // Example of calling the function
-functionName();
-AccioJob()
+
